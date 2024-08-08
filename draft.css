@@ -32,6 +32,7 @@
 
 body {
     font-family: var(--mainFont);
+    background-color: #FEFEFE;
     height: fit-content;
     overflow-x: hidden;
     max-width: 1920px;
@@ -261,7 +262,6 @@ p {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #fff;
     background-size: 80vw auto, 80vw auto;
     background-repeat: no-repeat;
     background-position: left, right; 
