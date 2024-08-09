@@ -53,6 +53,7 @@ h1 {
 h2 {
     font-family: var(--h2Font);
     font-size: var(--h2Size);
+    letter-spacing: 2px;
 }
 
 h3 {
@@ -63,6 +64,7 @@ h3 {
 h4 {
     font-family: var(--h4Font);
     font-size: var(--h4Size);
+    letter-spacing: 1.5px;
 }
 
 p {
