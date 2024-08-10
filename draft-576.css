@@ -83,16 +83,16 @@
 }
 
 .mobile-main-content-media {
-    width: 80%;
+    width: 100%;
     display: flex;
     justify-content: center;
     object-fit: contain;
 }
 
 #mobile-image-vertical {
-    width: 380px;
+    width: 100%;
     height: auto;
-    object-fit: contain;
+    object-fit: cover;
 }
 
 
@@ -103,5 +103,5 @@
 #hero-section-header-mobile {
     display: block;
     margin: auto;
-    width: 80%;
+    width: 100%;
 }
