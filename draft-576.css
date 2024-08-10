@@ -27,8 +27,8 @@
 }
 
 .main-hero-container {
-    height: 95vh;
-    height: 95svh;
+    height: 95vh !important;
+    height: 95svh !important;
 }
 
 #section-hero-main {
