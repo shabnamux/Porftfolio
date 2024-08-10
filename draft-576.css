@@ -26,6 +26,10 @@
     height: auto !important;
 }
 
+.main-hero-container {
+    height: 95vh;
+    height: 95svh;
+}
 
 #section-hero-main {
     align-items: stretch;
