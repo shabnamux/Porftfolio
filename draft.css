@@ -30,7 +30,7 @@
     }
 
 body {
-    background-color: #FEFEFE;
+    background-color: #f6f6f6;
     font-family: var(--mainFont);
     height: fit-content;
     overflow-x: hidden;
