@@ -8,6 +8,11 @@
 
 body {
     overflow-x: hidden;
+    max-width: 100% !important;
+}
+
+.main-hero-container {
+    height: 95svh !important;
 }
 
 
