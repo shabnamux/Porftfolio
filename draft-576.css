@@ -96,6 +96,7 @@ body {
 }
 
 .mo-hero-info {
+    margin-top: -32px;
     flex-grow: 1;
     display: flex;
     flex-direction: column;
