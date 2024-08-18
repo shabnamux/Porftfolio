@@ -138,6 +138,19 @@ p {
 }
 
 
+.main-hero-container, 
+.container {
+    min-height: 700px;
+}
+.exploration-section {
+    min-height: 250px;
+}
+
+.ui-designs-container {
+    min-height: 300px;
+}
+
+
 /* test hero */
 
 .main-hero-container {
